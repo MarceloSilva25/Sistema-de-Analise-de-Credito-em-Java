@@ -1,4 +1,4 @@
-# Sistema-de-Analise-de-Credito-em-Java
+# Sistema de Analise de Credito em Java <br> <br>
 # Descrição do Projeto #
 
 Este projeto consiste no desenvolvimento de um sistema de análise de crédito desenvolvido em Java, com o objetivo de aplicar conceitos fundamentais de Programação Orientada a Objetos (POO) na construção de uma aplicação baseada em um cenário real de mercado.
